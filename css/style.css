@@ -1,6 +1,44 @@
-.header:hover {
-    color: white;
-}
+
 .header-lang {
     color: #C7C7C7;
+}
+.header-logo {
+    width: 7%;
+    height: 7%;
+}
+.header {
+    background-color: #012D63;
+}
+.container {
+    width: 1110px;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    outline: 1px solid red;
+    }
+
+
+.hero {
+    background-image: url(../img/hero.png);
+    width: 1439px;
+    height: 858px;
+}
+.logo-nike {
+    width: 160px;
+    height: 120px;
+}
+.logo-candr {
+    width: 178px;
+    height: 86px;
+}
+.hero-about {
+    color: white;
+}
+.hero-button {
+    background-color: rgb(142, 50, 198);
+    color: white;
+}
+.Colo {
+    width: 640px;
+    height: 52px;
 }
